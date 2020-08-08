@@ -1,0 +1,9 @@
+{
+  "name": "nuxt-route-study",
+  "scripts": {
+    "dev": "nuxt"
+  },
+  "dependencies": {
+    "nuxt": "^2.14.1"
+  }
+}
